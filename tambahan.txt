@@ -1,0 +1,11 @@
+suplyaer tambah fitru jumlah utang, tanggal jatuh tempo
+
+-tambah suplyaer
+
+nama brang
+tagihan utang
+tanggal pembelian
+tanggal jatuh tempo
+
+
+carri barang berdasarkan nama
